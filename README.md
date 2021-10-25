@@ -3,6 +3,9 @@
 Unity games available here:
 https://drive.google.com/drive/folders/1i2I49f1XVjBEqj4RC2FTl7eBZfgrcTEm?usp=sharing
 
+(You can use the PaleMoon web browser to play the games in your browser)
+https://www.palemoon.org/
+
 
 ![robotattack_gameplay](https://user-images.githubusercontent.com/859222/138619146-517220d1-d7f8-4663-8038-8be72ee246e8.png)
 
