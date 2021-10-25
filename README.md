@@ -7,7 +7,7 @@ https://drive.google.com/drive/folders/1i2I49f1XVjBEqj4RC2FTl7eBZfgrcTEm?usp=sha
 https://www.palemoon.org/
 
 
-![robotattack_gameplay](https://user-images.githubusercontent.com/859222/138619146-517220d1-d7f8-4663-8038-8be72ee246e8.png)
+![robotattack_gameplay](https://user-images.githubusercontent.com/859222/138619361-2e8d930e-62b8-4577-baca-013f34ce45f1.png)
 
 
 ![subgame_gameplay](https://user-images.githubusercontent.com/859222/138619142-ed86ec48-67ac-4350-a1fc-ca34e168494b.png)
