@@ -18,3 +18,4 @@ https://www.palemoon.org/
 ![castlecollapse_gameplay](https://user-images.githubusercontent.com/859222/138619153-d568b70d-595c-413e-9e1f-de7ad62a3829.png)
 
 
+![ArenaBot](https://user-images.githubusercontent.com/859222/190283913-9c40a961-0dcc-4522-ae47-a40543dad64c.jpg)
